@@ -18,5 +18,5 @@ var myScroll = new IScroll('#wrapper', {
 });
 ```
 
-* 推荐文档[http://cubiq.org/iscroll-5](http://cubiq.org/iscroll-5)
-* 推荐文档[http://www.tuicool.com/articles/vMn2u2](http://www.tuicool.com/articles/vMn2u2)
+* 推荐文档([http://cubiq.org/iscroll-5](http://cubiq.org/iscroll-5))
+* 推荐文档([http://www.tuicool.com/articles/vMn2u2](http://www.tuicool.com/articles/vMn2u2))
