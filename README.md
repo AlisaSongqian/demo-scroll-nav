@@ -4,6 +4,7 @@
 iScroll.js 帮我们很好的解决了这个问题，并且支持惯性弹动效果。
 
 ##这个示例以脚本方式为开发者实现
+
 * 示例请使用 Apploader 查看。
 
 ##开发指南
@@ -17,5 +18,5 @@ var myScroll = new IScroll('#wrapper', {
 });
 ```
 
-[推荐文档](http://cubiq.org/iscroll-5)
-[推荐文档](http://www.tuicool.com/articles/vMn2u2)
+* 推荐文档[http://cubiq.org/iscroll-5](http://cubiq.org/iscroll-5)
+* 推荐文档[http://www.tuicool.com/articles/vMn2u2](http://www.tuicool.com/articles/vMn2u2)
